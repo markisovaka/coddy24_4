@@ -1,0 +1,890 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body {
+    background-color: white;
+    font-family: "Inter", sans-serif;
+    max-width: 1000px;
+    min-width: 1000px;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
+    font-size: 100px;
+    position: absolute;
+    width: 866;
+    height: 284;
+    left: 287;
+    top: 51;
+}
+
+h2 {
+    font-family: "Inter", sans-serif;
+    font-size: 60px;
+    position: absolute;
+    width: 875;
+    height: 134;
+    left: 0;
+    top: 416;
+}
+
+h3 {
+    font-family: "Inter", sans-serif;
+    font-size: 50px;
+    position: absolute;
+    width: 854;
+    height: 183;
+    left: 588;
+    top: 585;
+}
+
+h4 {
+
+    position: absolute;
+    width: 485px;
+    height: 48px;
+    left: 38px;
+    top: 1000px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+h5 {
+    /* Теперь передаю роль создателю */
+
+    position: absolute;
+    width: 533px;
+    height: 96px;
+    left: 600px;
+    top: 1000px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h6 {
+    /* Я програмирую два года */
+
+    position: absolute;
+    width: 317px;
+    height: 66px;
+    left: 1111px;
+    top: 1000px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h7 {
+    /* О проекте */
+
+    position: absolute;
+    width: 206px;
+    height: 48px;
+    left: 24px;
+    top: 2083px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h8 {
+    /* о чём расскажу я */
+
+    position: absolute;
+    width: 264px;
+    height: 36px;
+    left: -80px;
+    top: 3250.97px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+    transform: rotate(-89.13deg);
+
+}
+
+h9 {
+    /* СПАСИБО ЗА ВСЁ ШКОЛЕ: */
+
+    position: absolute;
+    width: 798px;
+    height: 73px;
+    left: 321px;
+    top: 4556px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 73px;
+    /* identical to box height */
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}
+
+#sigma {
+    /* Его зову Клим он меня создал. Он говорил, что создавал меня год, но я знаю, что потребовалась неделя. */
+
+    position: absolute;
+    left: 26px;
+    width: 512px;
+    top: 1864px;
+    height: 71.81px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+}
+
+h11 {
+    /* Я научился делать очень много всего: настраивать голос, делать функции, и т. д. И это всё на языке программирования Питоне */
+
+    position: absolute;
+    width: 479px;
+    height: 336px;
+    left: 573px;
+    top: 1676px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h12 {
+    /* До этого программировал на роблаксе и моделировал на Maya так же изучал Java и C++ */
+
+    position: absolute;
+    width: 369px;
+    height: 470px;
+    left: 1140px;
+    top: 1366px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+
+h13 {
+    /* мы делали проекты в Pycharm. Программирывали на языке программирывания под названием Python. Мы создавали ассистентов. Моего ассистента звали Джарвис. Они делали очень много всего: список задач, выключать компьютер, здароваться, и т. д. */
+
+    position: absolute;
+    width: 1360px;
+    height: 308px;
+    left: 21px;
+    top: 2040px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h14 {
+    /* код для приветствия: */
+
+    position: absolute;
+    width: 432px;
+    height: 48px;
+    left: 493px;
+    top: 2391px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h15 {
+    /* def hello(self): text = ["хай", "привет", “приветик"] kykywka = random.choice(text) self.talk(kykywka) */
+
+    position: absolute;
+    width: 550px;
+    height: 144px;
+    left: 445px;
+    top: 2447px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h16 {
+    /* код для выключения компьютера: */
+
+    position: absolute;
+    width: 688px;
+    height: 48px;
+    left: 376px;
+    top: 2605px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h17 {
+    /* def shut(self): self.talk("Ты уверен пупсик") text = self.listen() print(text) if fuzz.ratio(text, "да") > 70: self.talk("Бай Бай") system("shutdown /s /f /t 10") else: self.talk("Ладно не буду") */
+
+    position: absolute;
+    width: 660px;
+    height: 432px;
+    left: 392px;
+    top: 2644px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+h18 {
+    /* я расскажу о списке задач. */
+
+    position: absolute;
+    width: 414px;
+    height: 36px;
+    left: 130px;
+    top: 3123px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+
+
+h19 {
+    /* на самом деле это не сложно */
+
+    position: absolute;
+    width: 444px;
+    height: 36px;
+    left: 115px;
+    top: 3375px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+
+#taller {
+    /* надо сделать код, написать что мы говорим когда запускаем или очищаем список задач дальше делаем файл где будет список задач. */
+
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 54px;
+    top: 3450px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+}
+
+#shut {
+    /* а вот и код что-бы он всё записал: */
+
+    position: absolute;
+    width: 518px;
+    height: 36px;
+    left: 100px;
+    top: 3643px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+#fire {
+    /* вот сам код: */
+
+    position: absolute;
+    width: 187px;
+    height: 36px;
+    left: 975px;
+    top: 3159px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+
+
+}
+
+#firee {
+    /* def task_list(self): try: file = open("TODO.txt", "r", encoding='utf-8') tasks = file.read() file.close() if tasks == '': self.talk("Вы не добавили не одной задачи") else: text = "Список задач:\n" + tasks self.talk(text) except: self.talk("Вы не добавили не одной задачи") */
+
+    position: absolute;
+    width: 830px;
+    height: 565px;
+    left: 55px;
+    top: 3550px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #9E30A0;
+
+
+}
+
+#Java {
+    /* а вот код для того что-бы всё очистить: */
+
+    position: absolute;
+    width: 602px;
+    height: 36px;
+    left: 767px;
+    top: 3550px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+#Z {
+    /* def task_cleanner(self): file = open("TODO.txt", "w", encoding='utf-8') file.write("") file.close() self.talk("список задач пуст") */
+
+    position: absolute;
+    width: 681px;
+    height: 180px;
+    left: 738px;
+    top: 3600px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #CD0E0E;
+
+
+}
+
+
+
+
+nav ul {
+    color: brown;
+    display: inline-block;
+    margin-left: 500px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 1500px;
+    z-index: 1;
+
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+}
+
+#shi {
+    z-index: -1;
+    position: absolute;
+    width: 513px;
+    height: 972px;
+    left: 24px;
+    top: 1055px;
+}
+
+#shishi {
+    /* Rectangle 4 */
+    z-index: -1;
+    position: absolute;
+    width: 513px;
+    height: 972px;
+    left: 556px;
+    top: 1055px;
+
+    background: #DBDF11;
+    border-radius: 30px;
+}
+
+#e {
+    /* Rectangle 5 */
+    z-index: -1;
+    position: absolute;
+    width: 530px;
+    height: 434px;
+    left: 1081px;
+    top: 1055px;
+
+    background: #DBDF11;
+    border-radius: 30px;
+
+}
+
+#a {
+    /* Rectangle 6 */
+    z-index: -1;
+    position: absolute;
+    width: 530px;
+    height: 518px;
+    left: 1081px;
+    top: 1509px;
+
+    background: #DBDF11;
+    border-radius: 30px;
+
+}
+
+#p {
+    /* Rectangle 2 */
+    z-index: -2;
+    position: absolute;
+    width: 1600px;
+    height: 1024px;
+    left: 0px;
+    top: 1024px;
+
+    background: #EEEEEE;
+
+}
+
+#n {
+    /* Rectangle 7 */
+    z-index: -2;
+    position: absolute;
+    width: 1600px;
+    height: 1048px;
+    left: 0px;
+    top: 2048px;
+
+    background: #E3E3E3;
+
+}
+
+#b {
+    /* Rectangle 8 */
+    z-index: -1;
+    position: absolute;
+    width: 714px;
+    height: 493px;
+    left: 367px;
+    top: 2599px;
+
+    background: #9C4747;
+    border-radius: 50px;
+
+}
+
+#c {
+    /* Rectangle 9 */
+    z-index: -1;
+    position: absolute;
+    width: 1108px;
+    height: 200px;
+    left: 177px;
+    top: 2391px;
+
+    background: #F16262;
+    border-radius: 40px;
+
+}
+
+#o {
+    /* Rectangle 10 */
+    z-index: -2;
+    position: absolute;
+    width: 1600px;
+    height: 1200px;
+    left: 1px;
+    top: 3095px;
+
+    background: #D9D9D9;
+
+}
+
+#d {
+    /* Rectangle 12 */
+    z-index: -1;
+    position: absolute;
+    width: 247px;
+    height: 18px;
+    left: 4px;
+    top: 2065px;
+
+    background: #994646;
+
+}
+
+#f {
+    /* Rectangle 13 */
+    z-index: -1;
+    position: absolute;
+    width: 247px;
+    height: 18px;
+    left: 0px;
+    top: 2131px;
+
+    background: #994646;
+
+}
+
+
+#t {
+    /* Group 1 */
+    z-index: -1;
+    position: absolute;
+    width: 1441px;
+    height: 1102px;
+    left: 0px;
+    top: 3090px;
+
+
+}
+
+#tea {
+    /* image 12 */
+    z-index: -1;
+    position: absolute;
+    width: 1600px;
+    height: 1048px;
+    left: 1px;
+    top: 4192px;
+
+    background: url(image.png);
+}
+
+#DUCKS {
+    position: absolute;
+    width: 155;
+    height: 160;
+    left: 880;
+    top: 460;
+}
+
+#KY {
+    position: absolute;
+    width: 309;
+    height: 268;
+    left: 1131;
+    top: 1191;
+}
+
+#KYKYKYKY {
+    position: absolute;
+    width: 1440;
+    height: 251;
+    left: 0;
+    top: 773;
+}
+
+#KYKY {
+    position: absolute;
+    width: 512;
+    height: 512;
+    left: 24;
+    top: 1123;
+}
+
+#KYKYKY {
+    position: absolute;
+    width: 512;
+    height: 512;
+    left: 556;
+    top: 1162;
+}
+
+
+#read-more {
+    border: solid 2px black;
+    padding: 20px 30px;
+    border-radius: 50px;
+    display: inline-block;
+
+}
+
+#read-more {
+    z-index: 2;
+    background-color: #000000;
+    color: #EEEEEE;
+    position: absolute;
+    top: 860px;
+    left: 10;
+}
+
+#U {
+    /* заметочка */
+
+    position: absolute;
+    width: 159px;
+    height: 36px;
+    left: 1021px;
+    top: 3950px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+#L {
+    /* def - это функция что-бы не писать всё сплошным кодом */
+
+    position: absolute;
+    width: 660px;
+    height: 72px;
+    left: 770px;
+    top: 4050px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+
+}
+
+#R {
+    /* TODO.txt - это файл с списком задач */
+
+    position: absolute;
+    width: 551px;
+    height: 36px;
+    left: 809px;
+    top: 4020px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+#H {
+    /* def task_planner(self): self.talk("Что добавить в список задач") task = self.listen() file = open("TODO.txt", "a", encoding='utf-8') task = task + '\n' file.write(task) file.close() self.talk(f"Задача {task} добавлена") */
+
+    position: absolute;
+    width: 673px;
+    height: 324px;
+    left: 732px;
+    top: 3100px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    color: #3590C4;
+
+}
