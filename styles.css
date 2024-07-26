@@ -1,0 +1,345 @@
+@import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&family=Italiana&family=Jomolhari&family=Jost:ital,wght@0,100..900;1,100..900&family=Just+Another+Hand&family=Just+Me+Again+Down+Here&family=Krona+One&display=swap');
+
+
+#t {
+    position: absolute;
+    width: 1520px;
+    height: 1024px;
+    left: 0px;
+    top: 4070px;
+
+    background: linear-gradient(90.18deg, #DBFF00 0.15%, #D07777 24.08%, #2DD986 37.54%, #49D5D5 49.5%, #FFBCA7 69.84%, #5CBAFF 83.4%, #FF3D00 99.85%);
+    opacity: 0.4;
+    z-index: -1;
+}
+
+
+body {
+    font-family: "Jomolhari", sans-serif;
+    max-width: 1000px;
+    min-width: 1000px;
+    margin: 0 auto;
+}
+
+#h1 {
+    position: absolute;
+    top: 100;
+    left: 350;
+    font-family: "Italiana", sans-serif;
+    font-size: 128;
+}
+
+#read_more_link {
+    border: solid 5px black;
+    padding: 5px 10px;
+    border-radius: 10px;
+    display: inline-block;
+    position: absolute;
+    top: 598;
+    left: 887;
+    text-decoration: none;
+}
+
+#read_more_link:hover {
+    color: 494949;
+    text-decoration: underline;
+    transform: rotate(-2deg);
+}
+
+#h2 {
+    position: absolute;
+    top: 125;
+    left: 75;
+    font-family: "Happy Monkey", system-ui;
+    font-size: 48;
+    text-align: center;
+}
+
+#screen_1 {
+    position: absolute;
+    width: 1523px;
+    height: 1024px;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+
+#screen_2 {
+    position: absolute;
+    width: 1523px;
+    height: 1024px;
+    top: 1014;
+    right: 0;
+    z-index: -1;
+}
+
+#screen_3 {
+    position: absolute;
+    width: 1523px;
+    height: 1024px;
+    top: 2028;
+    right: 0;
+    z-index: -1;
+}
+
+#screen_4 {
+    position: absolute;
+    width: 1527px;
+    height: 1028px;
+    top: 3042;
+    left: 0;
+    z-index: -2;
+}
+
+#screen_5 {
+    position: absolute;
+    width: 1520;
+    height: 1024;
+    top: 4070;
+    left: 0;
+    z-index: -3;
+}
+
+#like {
+    position: absolute;
+    width: 288;
+    height: 284;
+    top: 4198;
+    left: 169;
+    z-index: -2;
+    rotate: -21°;
+}
+
+#smile {
+    position: absolute;
+    width: 320;
+    height: 320;
+    top: 4669;
+    left: 175;
+    z-index: 0;
+    rotate: -26;
+}
+
+#smile_face {
+    position: absolute;
+    width: 266;
+    height: 268;
+    top: 4266;
+    left: 1043;
+    z-index: -2;
+    rotate: 25°;
+}
+
+#gg {
+    position: absolute;
+    width: 295;
+    height: 295;
+    top: 4722;
+    left: 563;
+    z-index: 0;
+    rotate: 0;
+}
+
+#twg {
+    position: absolute;
+    font-family: "Just Me Again Down Here", cursive;
+    top: 4778;
+    left: 1011;
+    font-size: 64;
+    z-index: 0;
+    color: #fff;
+    transform: rotate(24deg);
+}
+
+#thx {
+    position: absolute;
+    font-family: "Krona One", sans-serif;
+    top: 4505;
+    left: 260;
+    rotate: 0;
+    font-size: 64;
+    z-index: 0;
+    color: #fff;
+}
+
+#thx_2 {
+    position: absolute;
+    font-family: "Krona One", sans-serif;
+    top: 4505;
+    left: 935;
+    rotate: 0;
+    font-size: 64;
+    z-index: 0;
+    color: #fff;
+}
+
+#mmb {
+    position: fixed;
+    top: -10;
+    left: 0;
+    font-family: "Jost", sans-serif;
+    font-style: Bold;
+    font-size: 45;
+    z-index: 100;
+}
+
+#n1 {
+    position: fixed;
+    top: -10;
+    left: 1170;
+    text-align: right;
+    font-size: 40;
+    font-family: "Jomolhari", serif;
+    z-index: 100;
+}
+
+#n2 {
+    position: fixed;
+    top: -10;
+    left: 1050;
+    text-align: right;
+    font-size: 40;
+    font-family: "Jomolhari", serif;
+    z-index: 100;
+}
+
+#n3 {
+    position: fixed;
+    top: -10;
+    left: 775;
+    text-align: right;
+    font-size: 40;
+    font-family: "Jomolhari", serif;
+    z-index: 100;
+}
+
+#n4 {
+    position: fixed;
+    top: -10;
+    left: 515;
+    text-align: right;
+    font-size: 40;
+    font-family: "Jomolhari", serif;
+    z-index: 100;
+}
+
+#n5 {
+    position: fixed;
+    top: -10;
+    left: 275;
+    text-align: right;
+    font-size: 40;
+    font-family: "Jomolhari", serif;
+    z-index: 100;
+}
+
+#message_icon {
+    position: absolute;
+    width: 392px;
+    height: 284px;
+    top: 590;
+    left: 397;
+}
+
+#me_icon {
+    position: absolute;
+    width: 512px;
+    height: 512px;
+    top: 1111;
+    left: 85;
+}
+
+#ai_icon {
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    top: 768;
+    left: 1171;
+}
+
+#cmd_icon {
+    position: absolute;
+    width: 263px;
+    height: 245px;
+    top: 779;
+    left: 910;
+}
+
+#human_icon {
+    position: absolute;
+    width: 350px;
+    height: 346px;
+    top: 610;
+    left: 47;
+}
+
+#mea {
+    position: absolute;
+    top: 1025;
+    left: 250;
+    font-size: 96;
+    font-family: "Just Another Hand", cursive;
+}
+
+#ame_1 {
+    position: absolute;
+    top: 1025;
+    left: 671;
+    font-size: 66;
+    font-family: "Jomolhari", serif;
+}
+
+#ame_2 {
+    position: absolute;
+    top: 1625;
+    left: 25;
+    font-size: 55;
+    font-family: "Jomolhari", serif;
+    text-align: center;
+}
+
+#ampm {
+    position: absolute;
+    top: 1975;
+    left: 225;
+    font-size: 128;
+    font-family: "Jomolhari", serif;
+}
+
+#amp {
+    position: absolute;
+    top: 2150;
+    left: 25;
+    font-size: 60;
+    font-family: "Jomolhari", serif;
+    text-align: center;
+}
+
+#hd {
+    position: absolute;
+    top: 3150;
+    left: 100;
+    font-size: 70;
+    font-family: "Jomolhari", serif;
+    text-align: center;
+}
+
+#hdm {
+    position: absolute;
+    top: 3000;
+    left: 200;
+    font-size: 128;
+    font-family: "Jomolhari", serif;
+    text-align: center;
+}
+
+nav a {
+    color: #000;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #494949;
+    text-decoration: underline;
+    transform: rotate(2deg);
+}
