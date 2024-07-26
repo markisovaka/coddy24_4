@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    /* font-variant-numeric: "Roboto Mono", monospace; */
+    font-family: "Roboto Mono", monospace;
+    color: rgb(255, 255, 255);
+    font-weight: 60px;
+    font-size: 40px;
+    margin: 15 auto;
+}
+
+
+#read-more-link {
+    border: solid 8px rgb(255, 255, 255);
+    padding: 20px 30px;
+    border-radius: 30px;
+    display: inline-block;
+}
+
+
+nav ul li {
+    color: rgb(255, 5, 5);
+    display: inline-block;
+    margin-left: 50px;
+}
+
+nav ul {
+    top: 0px;
+    display: inline-block;
+    z-index: 5;
+
+}
+
+#img1 {
+    position: absolute;
+    width: 1463px;
+    height: 800px;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+
+#img2 {
+    position: absolute;
+    width: 1463px;
+    height: 1000px;
+    left: 0px;
+    top: 800px;
+    z-index: -1;
+}
+
+
+#ABOUT-ME-link {
+    color: aqua;
+    margin: 0 auto;
+    display: block;
+}
+
+
+#img3 {
+    position: absolute;
+    width: 1463px;
+    height: 800px;
+    left: 0px;
+    top: 1530px;
+    z-index: -1;
+}
+
+
+#img4 {
+    position: absolute;
+    width: 1463px;
+    height: 670px;
+    left: 0px;
+    top: 2230px;
+    z-index: -1;
+}
+
+
+#img5 {
+    position: absolute;
+    width: 1463px;
+    height: 800px;
+    left: 0px;
+    top: 2900px;
+    z-index: -1;
+}
+
+
+#img6 {
+    position: absolute;
+    width: 1463px;
+    height: 720px;
+    left: 0px;
+    top: 3650px;
+    z-index: -1;
+}
+
+
+#qwerty {
+    color: aqua;
+    margin-left: 400px;
+    font-size: large;
+    font-size: 50px;
+    display: block;
+}
+
+
+#kontakt {
+    margin-left: 1000px;
+    font-size: large;
+}
+
+
+#bot {
+    font-size: large;
+    margin-left: 40px;
+}
+
+
+#chat {
+    margin-left: 160px;
+}
+
+
+#f {
+    margin-left: 160px;
+    font-size: x-large;
+}
+
+
+#f2 {
+    margin-left: 160px;
+    font-size: x-large;
+}
+
+
+#me {
+    margin-left: 200px;
+    color: aqua;
+    font-size: larger;
+}
+
+
+#name {
+    font-size: xx-large;
+    margin-left: 65px
+}
+
+
+#made {
+    font-size: x-large;
+    margin-left: 140px
+}
+
+
+#made2 {
+    font-size: xx-large;
+    margin-left: 140px;
+}
+
+
+#f3 {
+    font-size: larger;
+    color: rgb(161, 45, 250);
+}
+
+
+#Denny {
+    font-size: larger;
+    color: black;
+    width: 1463px;
+}
+
+
+#time {
+    color: blueviolet;
+}
+
+
+#time2 {
+    color: black;
+    width: 1463px;
+}
+
+
+#ch {
+    color: rgb(236, 137, 62);
+}
+
+
+#end {
+    color: rgb(255, 80, 5);
+}
+
+
+#cr {
+    width: 1463px;
+    color: rgb(28, 140, 238);
+}
+
+
+nav {
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 1463px;
+}
+
+nav a {
+    top: 0px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+#kontakt {
+    justify-content: space-between;
+    position: fixed;
+}
+
+
+#img7 {
+    position: absolute;
+    width: 1463px;
+    height: 720px;
+    left: 0px;
+    top: 4150px;
+    z-index: -1;
+
+}
+
+
+#kontakts {
+    margin-left: 140px;
+}
+
+
+#card {
+    margin-left: 140px;
+}
