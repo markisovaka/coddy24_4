@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+BE+VLG:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+BE+VLG:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    background: linear-gradient(#FB0069, #00CECE, #279500,#FB0069);
+    font-family: "Playwrite AR", cursive;
+    max-width: 800px;
+    min-width: 800x;
+    margin: 0 auto;
+    color: black;
+
+}
+
+h1 {
+    font-optical-sizing: auto;
+    font-weight: 20;
+    font-style: normal;
+    font-size: 132px;
+    line-height: 115px;               
+    float: left;
+    margin: 100px 0px 140px;
+    color: black;
+}
+
+#read-more-link{
+    border: solid 2px black;
+    padding: 20px 30px;
+    border-radius: 50px;
+    display: inline-block;
+    color:black;
+    text-decoration: none
+}
+
+/* #read-more-link:hover{
+    background-color:black;
+    color: white;
+} */
+
+
+
+nav ul {
+    display: inline block;
+    margin: 0;
+    /* float: right; */
+}
+
+nav ul li {
+    color:browns;
+    display: inline-block;
+    margin-left: 60px;
+    /* float: right; */
+}
+
+nav{
+    display: flex;
+    justify-content:space-between;
+    position: absolute;
+    /* width: 1000px; */
+}
+
+#image1 { 
+    position: absolute;
+    width: 2553px;
+    height: 1956px;
+    left: -1082;
+    top: -935;
+    z-index: -1;
+}
+
+
+#file5 { 
+    width: 150px;
+    z-index: 2;
+}
+
+#file2 { 
+    width: 200px;  
+    z-index: 3; 
+}
+
+#робот {
+    width: 500;
+}
+
+#file4 { 
+
+    width: 150px;
+    z-index: 4;  
+}
+#pngwing {
+    position: absolute;
+    width: 4000px;
+    height: 4000px;
+    left: -1000px; 
+    top: -500px;
+    z-index: -1;
+    opacity: 20%;
+}
+
+nav a {
+    color:black;
+    text-decoration: none;
+
+}
+
+nav a:hover{
+    text-decoration: underline;
+}
+
+*{
+    color: black;
+    text-decoration: none; 
+
+}
+
+#qwerty {
+    display: inline-block;
+}
