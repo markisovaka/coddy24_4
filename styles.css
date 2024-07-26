@@ -1,0 +1,349 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300..700&family=K2D:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Kelly+Slab&display=swap');
+body {
+    background: linear-gradient(#8143C8, #569FDA, #4D6DDF, #6E4BD8, #923BC1, #4873CA, #414FB8, #694ECB, #9D3AB6);
+    font-family: "Jura", sans-serif;
+    max-width: 1000px;
+    min-width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+}
+h1 {
+    font-family: "Kelly Slab", sans-serif;
+    font-size: 80px;
+    line-height: 80px;
+    margin: 100px 0px auto;
+}
+
+#read-more-link {
+    border: solid 2px black;
+    padding: 0px 50px;
+    border-radius: 45px;
+    display: inline-block;
+    position: absolute;
+    /* width: 170px; */
+    height: 70px;
+    left: 545;
+    top: 600;
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+}
+#read-more-link:hover {
+    background-color: blueviolet;
+    color: white;
+
+}
+nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+    float: left;
+    text-transform: uppercase;
+    
+}
+
+#img1 {
+    position: absolute;
+    width: 1460px;
+    height: 770px;
+    left: -36px;
+    top: -68px;
+    z-index: -1;
+}
+#p1 {
+    position: absolute;
+    width: 580px;
+    height: 20px;
+    left: 250;
+    top: 230;
+    font-size: 25px;
+
+}
+#img2 {
+    position: absolute;
+    width: 287px;
+    height: 287px;
+    left: 1150;
+}
+#h2 {
+    position: absolute;
+    width: 694px;
+    height: 216px;
+    left: 250;
+    top: 700;
+    font-size: 80px;
+}
+#img3 {
+    position: absolute;
+    width: 450px;
+    height: 451px;
+    left: 190;
+    top: 870;
+
+}
+#p2 {
+    position: absolute;
+    width: 552px;
+    height: 647px;
+    left: 900;
+    top: 900;
+    font-size: 30px;
+}
+#img5 {
+    position: absolute;
+    width: 1500px;
+    height: 690px;
+    left: 0;
+    top: 695;
+    z-index: -10;
+}
+#img4 {
+    position: absolute;
+    width: 340px;
+    height: 410px;
+    left: 870;
+    top: 870;
+    z-index: -1;
+}
+#img6 {
+    position: absolute;
+    width: 1500px;
+    height: 690px;
+    left: 0;
+    top: 1385;
+    z-index: -1;
+}
+#img7 {
+    position: absolute;
+    width: 1500px;
+    height: 690px;
+    left: 0;
+    top: 2075;
+    z-index: -1;
+}
+#img8 {
+    position: absolute;
+    width: 1500px;
+    height: 690px;
+    left: 0;
+    top: 2765;
+    z-index: -1;
+}
+#img9 {
+    position: absolute;
+    width: 1500px;
+    height: 800px;
+    left: 0;
+    top: 3455;
+    z-index: -1;
+}
+#p3 {
+    position: absolute;
+    width: 1032px;
+    height: 260px;
+    left: 370;
+    top: 1450;
+    font-size: 70px;
+}
+#img10 {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    left: 92;
+    top: 1550;
+}
+#img11 {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    left: 563;
+    top: 1550;
+}
+#img12 {
+    position: absolute;
+    width: 390px;
+    height: 390px;
+    left: 986px;
+    top: 1480px;
+    z-index: 1;
+}
+#p4 {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    left: 92;
+    top: 1800;
+    font-size: 30px;
+}
+#p5 {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    left: 563;
+    top: 1800;
+    font-size: 30px;
+}
+#p6 {
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    left: 1050;
+    top: 1800;
+    font-size: 30px;
+}#img13 {
+    position: absolute;
+    width: 579px;
+    height: 270px;
+    left: 720;
+    top: 2079;
+}
+#img14 {
+    position: absolute;
+    width: 410px;
+    height: 370px;
+    left: 790;
+    top: 2370;
+}
+#p7 {
+    position: absolute;
+    width: 494px;
+    height: 177px;
+    left: 174;
+    top: 2050;
+    font-size: 60px;
+}
+#p8 {
+    position: absolute;
+    width: 414px;
+    height: 474px;
+    left: 174;
+    top: 2160;
+    font-size: 30px;
+}
+#p9 {
+    position: absolute;
+    width: 1892px;
+    height: 188px;
+    left: 360;
+    top: 2720;
+    font-size: 80px;
+}
+#p10 {
+    position: absolute;
+    width: 1892px;
+    height: 188px;
+    left: 290;
+    top: 2860;
+    font-size: 40px;
+}
+#p11 {
+    position: absolute;
+    width: 329px;
+    height: 190px;
+    left: 351;
+    top: 3050;
+    font-size: 20px;
+}
+#p12 {
+    position: absolute;
+    width: 329px;
+    height: 190px;
+    left: 351;
+    top: 3175;
+    font-size: 20px;
+}
+#p13 {
+    position: absolute;
+    width: 329px;
+    height: 190px;
+    left: 880;
+    top: 3050;
+    font-size: 20px;
+}
+#p14 {
+    position: absolute;
+    width: 329px;
+    height: 190px;
+    left: 880;
+    top: 3175;
+    font-size: 20px;
+}
+#img15 {
+    position: absolute;
+    width: 700px;
+    height: 360px;
+    left: 169;
+    top: 3000;
+}
+#p15 {
+    position: absolute;
+    width: 1173px;
+    height: 258px;
+    left: 28;
+    top: 3397;
+    font-size: 80px;
+}
+#p16 {
+    position: absolute;
+    width: 761px;
+    height: 155px;
+    left: 35;
+    top: 3525;
+    font-size: 40px;
+}
+#p17 {
+    position: absolute;
+    width: 761px;
+    height: 155px;
+    left: 35;
+    top: 3650;
+    font-size: 25px;
+}
+#p18 {
+    position: absolute;
+    width: 761px;
+    height: 155px;
+    left: 35;
+    top: 3774;
+    font-size: 25px;
+}
+#p19 {
+    position: absolute;
+    width: 761px;
+    height: 155px;
+    left: 35;
+    top: 3950;
+    font-size: 34px;
+}
+#p20 {
+    position: absolute;
+    width: 761px;
+    height: 155px;
+    left: 870;
+    top: 4010;
+    font-size: 37px;
+}
+#img16 {
+    position: absolute;
+    width: 650px;
+    height: 410px;
+    left: 790;
+    top: 3520;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0px;
+    width: 1000px;
+    z-index: 1;
+}
+nav a {
+    color: black;
+    text-decoration: none;
+
+}
+nav a:hover {
+    text-decoration: underline;
+}
