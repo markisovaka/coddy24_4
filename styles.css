@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+body {
+    background: linear-gradient(89.77deg, #FFFFFF -47.34%, #000000 34.06%, #A6A6A6 115.2%, #000000 115.22%);
+    font-family: "Inter", sans-serif;
+    max-width: 1100px;
+    min-width: 1100px;
+    margin: 0 auto;
+    color: #FFFFFF
+}
+
+h1 {
+    font-size: 132px;
+    /* float: left; */
+
+
+}
+
+#read-more-link {
+    position: absolute;
+    top: 600;
+    border: solid 2px white;
+    padding: 20px 30px;
+    border-radius: 50px;
+    display: inline;
+}
+
+#read-more-link:hover {
+    background-color: white;
+    color: black
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+    top: 10px;
+
+
+}
+
+/* #img1 */
+
+#cic {
+    position: absolute;
+    left: 793px;
+    width: 507px;
+    height: 91px;
+    top: 254px;
+}
+
+#kot {
+    position: absolute;
+    left: 800px;
+    width: 123px;
+    height: 108px;
+    top: 190px;
+    z-index: -1;
+}
+
+nav {
+    display: inline;
+}
+
+#obo {
+    position: absolute;
+    top: 800px;
+    width: 362px;
+    height: 798px;
+}
+
+#tox {
+    position: absolute;
+    top: 800px;
+    width: 384px;
+    height: 798px;
+    right: 100px;
+
+}
+
+#mar {
+    position: absolute;
+    top: 700px;
+    left: 500px;
+}
+
+#ch {
+    position: absolute;
+    top: 900px;
+    width: 150px;
+    font-size: 15px;
+}
+
+#opro {
+    position: absolute;
+    top: 900px;
+    width: 150px;
+    font-size: 15px;
+    right: 300px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 1100px;
+}
+
+nav a {
+    color: white;
+    text-decoration: underline;
+
+}
+
+#moi {
+    position: absolute;
+    top: 1800px;
+    width: 300px;
+    font-size: 50px;
+    display: inline;
+}
+
+#ioda {
+    position: absolute;
+    width: 300px;
+    left: auto;
+    height: auto;
+}
+
+#spa {
+    position: absolute;
+    width: 300px;
+    right: 50px;
+    top: 1800px;
+}
